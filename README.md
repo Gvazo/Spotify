@@ -35,26 +35,8 @@
 - Just download and run simple.bat
 
 
-#### Manual installation
-
-1. Browse to your Spotify installation folder `%APPDATA%\Spotify`
-2. Download `chrome_elf.zip` from [releases](https://github.com/mrpond/Gvazo/releases)
-3. Unzip `dpapi.dll` and `config.ini` to Spotify directory.
-
 ### Uninstall:
 
-- Just run [uninstall.bat](https://raw.githack.com/mrpond/BlockTheSpot/master/Uninstall.bat)
+- Just run [uninstall.bat]
   or
 - Reinstall Spotify
-
-### Additional Notes:
-
-- "dpapi.dll" may gets removed by the Spotify installer each time it updates, hence why you'll probably need to apply the patch again when it happens
-- [Spicetify](https://github.com/khanhas/spicetify-cli) users will need to reapply BlockTheSpot after applying a Spicetify themes/patches.
-- If the automatic install/uninstall scripts do not work, open issue at [SpotX](https://github.com/amd64fox/SpotX) or contact [Amd64Fox](https://github.com/amd64fox) or [Nuzair46](https://github.com/Nuzair46).
-- For more support and discussions, join our [Discord server](https://discord.gg/p43cusgUPm).
-
-### DISCLAIMER
-
-- Autoinstaller is maintaned at [SpotX](https://github.com/amd64fox/SpotX). Any issue related to it should be opened in the said repo. 
-- Ad blocking is the main concern of this repo. Any other feature provided by SpotX or consequence of using those features will be the sole repsonsiblity of the user and not either BlockTheSpot or SpotX team will be responsible.

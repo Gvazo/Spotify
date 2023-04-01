@@ -20,14 +20,14 @@
 0. Update Windows, update Spotify and update BlockTheSpot
 1. Go to "Windows Security" -> "Virus & Threat Protection"
 2. Click "Allowed threats" -> "Remove all allowed threats"
-3. Autoinstaller requirements can be found [here](https://github.com/amd64fox/SpotX#system-requirements)
+
 
 ### Features:
 
 - Blocks all banner/video/audio ads within the app
 - Retains friend, vertical video and radio functionality
 - Unlocks the skip function for any track
-- Addtional features unlocked by [SpotX](https://github.com/amd64fox/SpotX#features)
+
 
 
 ### Installation/Update:

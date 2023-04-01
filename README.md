@@ -31,7 +31,9 @@
 
 ### Installation/Update:
 
-- Just download and run simple.bat
+- Just download and run 
+1. simple.bat
+2. SpotXBasic.bat
 
 
 ### Uninstall:

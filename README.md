@@ -37,6 +37,5 @@
 
 ### Uninstall:
 
-- Just run [uninstall.bat]
-  or
-- Reinstall Spotify
+- Just run [uninstall.bat]   or Reinstall Spotify
+

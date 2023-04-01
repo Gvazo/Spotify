@@ -1,6 +1,6 @@
 <center>
     <h2 align="center"> IMPORTANT ANNOUNCEMENT </h2>
-    <p align="center">it wont be supported anymore. After this day, this repository will be a public archive. <strong>But it's not the end.</strong> We are moving to <a href="https://github.com/Gvazo">SpotX</a>. For more info, add me on Discord.<Gvazo#6970>
+    <p align="center">it wont be supported anymore. After this day, this repository will be a public archive. <strong>But it's not the end.</strong> We are moving to <a href="https://github.com/Gvazo">SpotX</a>. For more info, add me on Discord Gvazo#6970.
 </center>
 
 <center>

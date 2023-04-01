@@ -49,7 +49,7 @@ or
 #### Manual installation
 
 1. Browse to your Spotify installation folder `%APPDATA%\Spotify`
-2. Download `chrome_elf.zip` from [releases](https://github.com/mrpond/BlockTheSpot/releases)
+2. Download `chrome_elf.zip` from [releases](https://github.com/mrpond/Gvazo/releases)
 3. Unzip `dpapi.dll` and `config.ini` to Spotify directory.
 
 ### Uninstall:

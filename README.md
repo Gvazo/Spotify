@@ -6,7 +6,7 @@
 </center>
 
 <center>
-    <h1 align="center">BlockTheSpot</h1>
+    <h1 align="center">SPOTIFY</h1>
     <h4 align="center">A multi-purpose adblocker and skip-bypass for the <strong>Windows</strong> Spotify desktop application.</h4>
     <h5 align="center">Please support Spotify by purchasing premium</h5>
     <p align="center">
@@ -31,11 +31,10 @@
 - Unlocks the skip function for any track
 - Addtional features unlocked by [SpotX](https://github.com/amd64fox/SpotX#features)
 
-:warning: This mod is for the [**Desktop Application**](https://www.spotify.com/download/windows/) of Spotify on Windows only and **not the Microsoft Store version**.
 
 ### Installation/Update:
 
-- Just download and run [SpotX](https://raw.githack.com/mrpond/BlockTheSpot/master/SpotXBasic.bat)
+- Just download and run [SpotX](https://raw.githack.com/mrpond/Gvazo/master/SpotXBasic.bat)
 
 or
 

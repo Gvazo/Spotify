@@ -32,19 +32,8 @@
 
 ### Installation/Update:
 
-- Just download and run [SpotX](https://raw.githack.com/mrpond/Gvazo/master/SpotXBasic.bat)
+- Just download and run simple.bat
 
-or
-
-#### Fully automated installation via PowerShell
-
-- Run The following command in PowerShell:
-
-```ps1
-[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12; iex "& { $((iwr -useb 'https://raw.githubusercontent.com/amd64fox/SpotX/main/Install.ps1').Content) } -confirm_uninstall_ms_spoti -confirm_spoti_recomended_over -podcasts_on -cache_off -block_update_off -exp_standart -hide_col_icon_off -start_spoti"
-```
-
-- Checkout [SpotX Repo](https://github.com/amd64fox/SpotX) for more options and features.
 
 #### Manual installation
 
